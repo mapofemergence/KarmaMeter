@@ -7,9 +7,11 @@ $feeds = $cosmos->getFeedsList($format=false, $page=false, $per_page=false, $con
 $feeds_a = json_decode($feeds, true);
 foreach($feeds_a as $f ){
 	if($f and is_array($f)){
-		print json_encode($f);
+		foreach($f as $stream){
+			$parsed[] = json_decode(parse(json_encode($stream)), true);
+		}
 	}
 }
-	
+print json_encode($parsed);
 	
 ?>
