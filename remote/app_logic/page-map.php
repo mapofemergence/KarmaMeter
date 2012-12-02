@@ -1,13 +1,24 @@
-<html>
-<head></head>
-<body onload="load()">
-    <div id="map" style="width: 500px; height: 300px"></div>
-  </body>
-<div >
-</div>
-<!--script part-->
+<?php
+/*
+Template Name: Map
+*/
+
+get_header(); ?>
+
+		<div id="primary">
+			<div id="content" role="main">
+				
+				<div id="map" style="width: 100%; height: 600px"></div>
+
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript">
+$(document).ready(
+	load()
+);
 var customIcons = {
       cre_1: {
         icon: 'http://labs.google.com/ridefinder/images/mm_20_blue.png',
@@ -41,7 +52,7 @@ function load(){
         mapTypeId: 'roadmap'
       });
       var infoWindow = new google.maps.InfoWindow;
-	downloadUrl("api/db_to_map.php", function(data) {
+	downloadUrl("../karma/api/db_to_map.php", function(data) {
 	  var xml = data.responseXML;
 	  var markers = xml.documentElement.getElementsByTagName("marker");
 	  for (var i = 0; i < markers.length; i++) {
@@ -89,6 +100,5 @@ function doNothing() {}
 
 
 </script>
-<?php
-require_once("footer.php");
-?>
+
+<?php get_footer(); ?>
