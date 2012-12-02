@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Space Invaders in Roma</name>
+  <description><![CDATA[Distribution of Invaders street art in Roma.
+
+INVADER placed 66 artworks (included in his original map) + 3 (not included in his original map).
+Here you can see 68 original invaders (or almost the site where they were placed), plus 2 fake.
+
+Please send an email (bigmolla@alice.it) with info if you find the site of the artwork still not included in the map, or for any other new about Roma Invasion, thanks.
+
+Legend
+Green invaders are the original artworks placed by INVADER, still in place.
+Red invaders are original artworks placed by INVADER but no more visible..
+Blue invaders are original artworks, but not shown on the original INVADER map.
+Orange invaders are fake invaders.
+
+Thanks to all contributors: Jessica, Annalaura, R, Fran6, Alessio, Dund, Ziogugo, Serena , Erika, Roberto, Ghibli, Omegaiori, Valerio, Verinhaottoni, mrcburatti, Denis, Koen, Moira, Forte Resistente, piripp, Quentin.]]></description>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://img689.imageshack.us/img689/7136/spaceiconorange.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://img442.imageshack.us/img442/3996/spaceicongreen.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://img560.imageshack.us/img560/830/spaceiconblue.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://img837.imageshack.us/img837/3388/spaceiconred.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://img689.imageshack.us/img689/7136/spaceiconorange.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Invader porta portese</name>
+    <description><![CDATA[<div dir="ltr">My first roman invader, yellow and big.<br>Il primo invader che ho visto a Roma. <br>Grosso e giallo. <br>20 giugno 2011 - This one is gone too. :-(<br><img src="http://img201.imageshack.us/img201/4673/invader6portaportese.jpg"> <br>By bigmolla at 2010-07-23 </div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>12.474450,41.883572,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Magnanapoli</name>
+    <description><![CDATA[<div dir="ltr">A small invader, well visible for people coming from Via Nazionale or from Quirinale Palace.<br>Piccolo ma bene in vista per chi viene da Via Nazionale o dal Quirinale.<img src="http://img201.imageshack.us/img201/2433/invader3magnanapoli.jpg"><br>By bigmolla at 2010-07-23<br></div>February 24th, 2011. Unfortunately this invader is no more in place. Thanks to Koen for the info and the photo.<br>
+<img src="http://img7.imageshack.us/img7/9961/magnanapoliasportatosma.jpg" alt="Image Hosted by ImageShack.us"><br>By Koen at 2011-02-24]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>12.486509,41.896469,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Pilotta</name>
+    <description><![CDATA[<div dir="ltr">Small invader placed on the bridge crossing Via della Pilotta.<br>Sul passaggio che scavalca l'inizio di Via della Pilotta. Piccolo ma visibilissimo. <br><img alt="Image Hosted by ImageShack.us" src="http://img837.imageshack.us/img837/2908/invader5pilotta.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>12.484988,41.897381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Marmorata</name>
+    <description><![CDATA[<div dir="ltr">Small invader that can be easily seen going toward Testaccio along Via Galvani. Piccolo ma ben visibile all'angolo tra via Marmorata e via Galvani.<br><img alt="Image Hosted by ImageShack.us" src="http://img201.imageshack.us/img201/1046/invader4marmorata.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>12.478940,41.878738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Annia</name>
+    <description><![CDATA[<div dir="ltr">Just over the Taverna dei Quaranta Restaurant, this nice invader has got the Colosseo in the background. <br>Ben visibile sopra la Taverna dei Quaranta, con lo sfondo del Colosseo <br><img alt="Image Hosted by ImageShack.us" src="http://img831.imageshack.us/img831/1225/invader1annia.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>12.494400,41.887901,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Colosseo</name>
+    <description><![CDATA[<div dir="ltr">White background for this invader, placed very close to the Colosseo at the beginning of&nbsp; Stradone di S. Giovanni. Sfondo bianco per questo invader all'angolo con lo Stradone di S.Giovanni. Il piccione guarda curioso. <br><img alt="Image Hosted by ImageShack.us" src="http://img72.imageshack.us/img72/5717/invader11colosseo.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-25 </div>
+<br>
+17/10/10 L'invader è nascosto dietro una impalcatura, speriamo sopravviva ai lavori in corso!!!!
+<br>This invader is presently hidden by ongoing works on the building walls. Hope it will survive!!!<br>20 giugno 2011 - The invader is still alive after cleaning works on the buildink. :-)<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>12.494274,41.890087,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Cavour</name>
+    <description><![CDATA[<div dir="ltr">Special invader with a pointing hand on a yellow background.<br>Molto grande e completo di mano indicatrice questo invader con fondo giallo <br><img alt="Image Hosted by ImageShack.us" src="http://img829.imageshack.us/img829/8638/invader2cavour.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>12.492111,41.894283,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Piazzavittorio</name>
+    <description><![CDATA[<div dir="ltr">A Composition of a sprayer and two bug-invaders.<br>Composizione di due invaders ed uno spruzzatore, inconsueta. <br>28 giugno 2011 - Forte resistente says it is no more in place. :-(<br><img alt="Image Hosted by ImageShack.us" src="http://img835.imageshack.us/img835/1263/invader9piazzavittorio.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>12.506309,41.894157,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Missing Invader Mamiani</name>
+    <description><![CDATA[<div dir="ltr">This artwork seems to be disappeared just after positioning.<br>Questo invader sembra essere scomparso subito dopo la sua affissione. <br>Rimangono i segni del mastice sull'intonaco. <br>Chissà come era? <br><img alt="Image Hosted by ImageShack.us" src="http://img525.imageshack.us/img525/2528/invader10mamianidisappe.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 <br>Thanks to Dund we have a picture of the missing invader.<br>Grazie a Dund abbiamo un'immagine dell'invader prima della sua scomparsa!<br><img alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img337/2627/invader10bismamiani.jpg"><br>By Dund at 2010-08-12 </div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>12.504330,41.895512,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Preneste</name>
+    <description><![CDATA[<div dir="ltr">Very nice artwork stating the Roma invasion.<br><br>Molto carino questo mosaico che afferma di invadere Roma! <br><br><img alt="Image Hosted by ImageShack.us" src="http://img705.imageshack.us/img705/7592/invader8largopreneste.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 <br><br>By bigmolla at 2010-07-23 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>12.541712,41.892807,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Porta maggiore</name>
+    <description><![CDATA[<div dir="ltr">A classic shape for this large invader.<br>Una forma classica per questo grosso invader. <br><img alt="Image Hosted by ImageShack.us" src="http://img828.imageshack.us/img828/975/invader7portamaggiore.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-23 </div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>12.515616,41.892929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Piazza Fiume</name>
+    <description><![CDATA[<div dir="ltr">Large invader with a pale blue background.<br>Grosso e visibile dalla piazza. <br>8 luglio 2011 - Gone!!! :-(<br><img alt="Image Hosted by ImageShack.us" src="http://img831.imageshack.us/img831/2340/invader13fiume.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-25 </div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>12.498625,41.911304,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Musei Vaticani</name>
+    <description><![CDATA[<div dir="ltr">If you are queueing to visit cappella Sistina and Vatican Museum you cannot miss it!!!<br>Se fate la fila per visitare i Musei Vaticani non potete mancarlo!! <br><img alt="Image Hosted by ImageShack.us" src="http://img251.imageshack.us/img251/29/invader12museivaticani.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-25 </div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>12.455387,41.907536,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Casilina vecchia</name>
+    <description><![CDATA[<div dir="ltr">This invader seems to guard the old Portal.<br>Sembra fare la guardia al vecchio portale.<br>Pietro(14-11-2010) segnala che è stato in parte rimosso o danneggiato. :-(<br>There is a new about damage to the artwork. Hope it is not true!!!<br>giugno 2011 - It was true. This one is gone too. :-((<br>
+<img src="http://img168.imageshack.us/img168/4070/invader14casilinavecchi.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-26
+</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>12.525195,41.886868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader pigneto</name>
+    <description><![CDATA[<div dir="ltr">Huge invader up on the wall.<br>Grande invader ben visibile sul muro
+<br>
+<img src="http://img841.imageshack.us/img841/430/invader15pigneto.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-26
+</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>12.528808,41.888554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Castruccio</name>
+    <description><![CDATA[<div dir="ltr">This artwork is similar to Annia Invader.<br>Buffo il nome della strada. Invader molto simile a quello in Via Annia
+<br>4 luglio 2011 - Forte Resistente says it is gone :-(<br>
+<img src="http://img833.imageshack.us/img833/1986/invader16castracane.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-26
+</div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>12.529915,41.889206,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Bellearti</name>
+    <description><![CDATA[<div dir="ltr">Red and unmistekable on the wall of Viale delle Belle Arti! Thaks to Jessika.<br>Spicca grande e rosso sul muro di sostegno del Viale delle Belle Arti
+<br>Grazie a Jessica per l'indicazione!<br>1 luglio 2011 _ Sparito anche esso. Disappeared too.<br>
+<img src="http://img85.imageshack.us/img85/239/invader17bellearti.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>12.479058,41.918446,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Madonnadeimonti</name>
+    <description><![CDATA[<div dir="ltr">Bella vista dell'invader da seduti intorno alla fontana.<br>
+Grazie a jessica per la segnalazione
+<br>
+<img src="http://img716.imageshack.us/img716/6858/invader19madonnadeimont.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>12.491082,41.894882,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Via Urbana</name>
+    <description><![CDATA[<div dir="ltr">Un altro invader nella zona della Suburra.
+<br>
+<img src="http://img831.imageshack.us/img831/9527/invader26urbana.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>12.493367,41.895515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Tomacelli</name>
+    <description><![CDATA[<div dir="ltr">Sorprendente posizione in zona trafficatissima.
+<br>
+<img src="http://img375.imageshack.us/img375/8827/invader22tomacelli.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>12.476977,41.904758,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Politeama</name>
+    <description><![CDATA[<div dir="ltr">Affacciandosi dalla balconata del Lungotevere su Via del Politeama non potete mancarlo!
+Looking down from Lungotevere towards Via del Politeama, you cannot miss it!!!<br>24-06-2011<br>Purtroppo anche questo è sparito. grazie a moira per la segnalazione :-(<br>Unfortunately this one is missing, too.<br>
+<img src="http://img299.imageshack.us/img299/5690/invader26politeama.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+<br></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>12.470484,41.891258,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader_Sancalisto</name>
+    <description><![CDATA[<div dir="ltr">Impossibile mancarlo tra un gelato ed un drink in questa splendida zona di Trastevere.
+<br>
+<img src="http://img340.imageshack.us/img340/3297/invader21sancalisto.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>12.470550,41.889172,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Pontemollo</name>
+    <description><![CDATA[<div dir="ltr">Spicca sul bianco della statua che orna l'ingresso di Pontemollo. <br>Sembra essere l'unico a portata di mano .<br>8 luglio 2011 - Disappeared!! :-((. <br><img alt="Image Hosted by ImageShack.us" src="http://img824.imageshack.us/img824/1306/invader25pontemollo.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27 </div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>12.466692,41.936340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader VillaAda</name>
+    <description><![CDATA[<div dir="ltr">Questo è veramente incredibile. Attaccato sul muro della caserma!! Tanto di cappello a Invader!!
+<br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br>
+<img src="http://img44.imageshack.us/img44/4094/invader23villaada.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>12.506403,41.935616,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Ripetta</name>
+    <description><![CDATA[<div dir="ltr">Altro spruzzatore invadericida!!
+<br>
+<img src="http://img697.imageshack.us/img697/3845/invader20ripetta.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>12.475906,41.907310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Dellefratte</name>
+    <description><![CDATA[<div dir="ltr">Un altro invader in pieno centro storico, tra un flusso continuo di turisti.
+<br>
+<img src="http://img836.imageshack.us/img836/330/invader18dellefratte.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>12.483404,41.903522,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Gioberti</name>
+    <description><![CDATA[<div dir="ltr">Il secondo invader con dichiarazione di invasione della Capitale!
+<br>June 2011<br>This one is gone in the wind :-((<br>
+<img src="http://img5.imageshack.us/img5/1658/invader24viagioberti.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-27
+</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>12.501171,41.899609,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Gazometro</name>
+    <description><![CDATA[<div dir="ltr">Nuovo invader in zona Roma sud.<br>Grazie ad Annalaura per la segnalazione.<br>4 luglio 2011 - Piripp says it is disappeared. :-(<br>
+<img src="http://img153.imageshack.us/img153/9371/invader29gazometro.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>12.479702,41.870464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Tebaldi</name>
+    <description><![CDATA[<div dir="ltr">Spicca con i suoi occhi a specchio sul lungotevere. Very nice invader with light mirror eyes.<br>Grazie ad Annalaura e a Jessica per la segnalazione<br>May 2011<br>This one is no more in place. :-((<br><img alt="Image Hosted by ImageShack.us" src="http://img137.imageshack.us/img137/6772/invader28tebaldi.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29 </div>
+<div dir="ltr">Settembre 2010 - L'invader è parzialmente nascosto da un poster appiccicato abusivamente sul muro. Che vandali!!!</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>12.468687,41.894794,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Falisci</name>
+    <description><![CDATA[<div dir="ltr">Sullo spigolo di un palazzo, al di sopra di un tranquillo ristorantino nascosto da una pergola.<br>Grazie ad Annalaura e a Jessica per la segnalazione.<br>24 maggio 2011<br>Moira mi segnala che è scomparso! :-(<br>
+<img src="http://img838.imageshack.us/img838/6923/invader35falisci.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>12.513369,41.897121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Sabelli</name>
+    <description><![CDATA[<DIV dir="ltr">Terzo mosaico con la dichiarazione di invasione della città!<BR>Grazie ad Annalaura per la segnalazione.<BR><img src="http://a.imageshack.us/img135/3492/invader48sabelli.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-11</DIV>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>12.514098,41.896339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Pignetobis</name>
+    <description><![CDATA[<div dir="ltr">Ci ho messo un pò a trovarlo, ma è proprio lì, in evidenza.<br>Grazie a Jessica per la segnalazione.<br>
+<img src="http://img819.imageshack.us/img819/4432/invader34pignetobis.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>12.525680,41.888931,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Villini</name>
+    <description><![CDATA[<div dir="ltr">Proprio all'angolo dell'edificio della stazione Villini. Terzo esempio di spruzzatore anti invaders. Up on the corner of the Villini train station building.<br>Grazie a Jessica per la segnalazione<br>24-06-2011 Unfortunately this is gone too :-(( Thanks to Forte Resistente for the update.<br>
+<img src="http://img819.imageshack.us/img819/694/invader33villini.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>12.531281,41.883842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Alessi</name>
+    <description><![CDATA[<div dir="ltr">Piccolo ma inconfondibile in questa zona sud est di Roma ricchissima di invaders.<br>Grazie ad Annalaura per la segnalazione.<br>4 luglio 2011 - Forte Resistente announces it is gone :-(<br>
+<img src="http://img201.imageshack.us/img201/2323/invader32alessi.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>12.537074,41.879372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Tor Pignattara</name>
+    <description><![CDATA[<div dir="ltr">Bianco e più grande del normale. Big, white.<br>Thanks to Jessica.<br>28 giugno 2011 - Forte resistente says it has disappeared. :-(<br>
+<img src="http://img840.imageshack.us/img840/1267/invader31torpignattara.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>12.541462,41.875519,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Torpignattara bis</name>
+    <description><![CDATA[<div dir="ltr">Inconsueto Invader bianco con scia, che si muove verso sinistra. Mai segnalato finora.<br>4 luglio 2011 - Forte Resistente says it is disappeared :-(<br>
+<img src="http://img201.imageshack.us/img201/7324/invader30torpignattarab.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>12.541816,41.878281,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader ViaAquila</name>
+    <description><![CDATA[<div dir="ltr">Altro invader inconsueto, rosso, con scia, che si muove verso destra. Credo di essere il primo a segnalarlo.<br>
+<img src="http://img507.imageshack.us/img507/459/invader36viaaquila.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-07-29
+</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>12.523685,41.889748,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Mattatoio</name>
+    <description><![CDATA[<DIV dir="ltr">Grosso invader nella zona della Movida di testaccio. <BR><IMG alt="Image Hosted by ImageShack.us" src="http://img836.imageshack.us/img836/5691/invader37mattatoio.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-07-29 </DIV>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>12.474187,41.875332,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Campodefiori</name>
+    <description><![CDATA[<DIV dir="ltr">Aggiunto stamattina questo Invader che campeggia vicino al cinema farnese. <BR><IMG alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img529/4589/invader38campodefiori.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-07-30 </DIV>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>12.472623,41.895325,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Flaminia</name>
+    <description><![CDATA[<div dir="ltr">Molto bello e colorato all'angolo tra la Flaminia e Via Guido Reni.<br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br>
+<img src="http://a.imageshack.us/img411/2424/invader39flaminia.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-01
+</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>12.468935,41.928551,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Tiburtina</name>
+    <description><![CDATA[<div dir="ltr">Nel bel mezzo di San lorenzo, sulla via Tiburtina. Invader un pò pallido ma grande ed inconfondibile.
+<br>30 giugno 2011 - Moira says it is gone!!! :-((<br>
+<img src="http://a.imageshack.us/img294/558/invader40tiburtina.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-01
+</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>12.516813,41.899738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Ostiense</name>
+    <description><![CDATA[<div dir="ltr">Vicino al rettorato dell'Università di RomaTre.<br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br>
+<img src="http://a.imageshack.us/img508/1663/invader42ostiense.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-04
+</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>12.480437,41.863392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader CircoMassimo</name>
+    <description><![CDATA[<div dir="ltr">Quarto invader della serie "I invade Roma", stavolta in posizione inconsueta, a livello del terreno!<br>Purtroppo è sparito anche lui 25-10-2010 :-(<br>
+<img src="http://a.imageshack.us/img844/6498/invader41circomassimo.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-04
+</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>12.485320,41.885395,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader San Lorenzo</name>
+    <description><![CDATA[<div dir="ltr">Questo invader rosso e bianco è posto nella piazzetta pedonale.<br>
+<img src="http://a.imageshack.us/img814/2456/invader43sanlorenzo.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-05
+</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>12.515241,41.896465,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader GovernoVecchio</name>
+    <description><![CDATA[<div dir="ltr">All'incrocio tra Via del governo vecchio e Vicolo della Cancelleria. Posto in una posizione anomala, a circa 120 cm da terra, facilmente raggiungibile. speriamo sopravviva!<br>
+Grazie a Fran6 per la segnalazione<br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br>
+<img src="http://a.imageshack.us/img713/9531/invader44governovecchio.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-05
+</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>12.471532,41.898003,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Funari</name>
+    <description><![CDATA[<div dir="ltr">Molto in alto, con sullo sfondo il campanile della chiesa di S. Caterina de' Funari<br>
+Grazie a Fran6 per la segnalazione<br>
+<img src="http://a.imageshack.us/img842/3593/invader45funari.jpg" alt="Image Hosted by ImageShack.us"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-05<br>February 25th, 2011 - This artwork has disappeared too. :-( </div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>12.478666,41.893738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Sansebastiano</name>
+    <description><![CDATA[<div dir="ltr">Piccolo e quasi mimetico sul bianco della porta.<br>Grazie a R per la segnalazione<br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br><img alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img841/9761/invader46sansebastiano.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-09 </div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>12.501654,41.873425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Baronio</name>
+    <description><![CDATA[<div dir="ltr">Vicino alla entrata metro Furio camillo, uno degli invader più grandi a Roma. <br>Grazie a Jessica ed al suo informatore per la segnalazione <br><img alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img409/6328/invader47baronio.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-08-11 </div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>12.522807,41.874729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Lungaretta</name>
+    <description><![CDATA[<DIV dir="ltr">Grazie alla segnalazione di Alessio abbiamo un nuovo invader a via della Lungaretta, a due passi da S. Maria in trastevere.<BR><IMG alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img843/4252/invader49lungaretta.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-08-12 </DIV>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>12.471092,41.889660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Trinitàdeimonti</name>
+    <description><![CDATA[<DIV dir="ltr">Grazie alla segnalazione di Ziogugo posso aggiungere il vero invader di piazza di Spagna.<BR><IMG alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img686/1896/invader50trinitdeimonti.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-08-13 </DIV>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>12.483009,41.906338,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Missing Invader Pilotta2</name>
+    <description><![CDATA[<DIV dir="ltr">Altro invader a via della pilotta, stavolta sul quarto arco, lato interno. <BR>Grazie mille a Erika per la segnalazione. <BR><IMG alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img291/1897/invader55pilotta2.jpg"></DIV>
+<DIV dir="ltr">18/09/2010 - Purtroppo l'invader è sparito!!!<BR>By Omegaiori at 2010-08-27 </DIV>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>12.484503,41.898605,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader TavaniArquati</name>
+    <description><![CDATA[<div dir="ltr">Altro invader in Trastevere, all'angolo tra via della Lungaretta e Piazza Tavani Arquati.
+<br>Grazie a Erika, Ghibli, Omegaiori e Roberto che hanno effettuato la segnalazione!
+<br>
+<img src="http://a.imageshack.us/img132/8229/invader53lungaretta.jpg" alt="Image Hosted by ImageShack.us"><br>By omegaiori at 2010-08-18</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>12.473197,41.889549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Castrense</name>
+    <description><![CDATA[<div dir="ltr">Grazie a Omegaiori e ad Erika e Ghibli abbiamo un'altra segnalazione. <br>7-1-2011 R mi segnala che anche questo invader è sparito!!!<br><img alt="Image Hosted by ImageShack.us" src="http://a.imageshack.us/img202/2008/invader54sangiovannijpg.jpg"><br>By Omegaiori at 2010-08-18 </div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>12.518685,41.888859,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader fantozzi</name>
+    <description><![CDATA[<div dir="ltr">Erika e Ghibli mi segnalano un invader nei pressi del palazzo da cui Fantozzi prendeva il bus al volo.
+<br><img src="http://a.imageshack.us/img827/2193/invader52fantozziverinh.jpg" alt="Image Hosted by ImageShack.us"><br>By VERINHA at 2010-08-27
+<br>
+</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>12.519865,41.889675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Costaguti</name>
+    <description><![CDATA[<div dir="ltr">Dopo la pausa estiva ecco le ultime segnalazioni, in attesa della mostra romana di Invader in Persona.<br>Grazie a Valerio per la segnalazione.<br>24 maggio 2011.<br>Purtroppo anche questo invader è sparito!<br><br><img alt="Image Hosted by ImageShack.us" src="http://img830.imageshack.us/img830/7608/invader56costaguti.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-09-24 </div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>12.476877,41.893440,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Misterious ? Invader</name>
+    <description><![CDATA[<div dir="ltr">Dopo attenta discussione questo artwork viene considerato un fake, cioè non appartiene alla serie originale di INVADER.<br>Il soggetto è completamente diverso da tutti gli altri, un punto interrogativo. Anche l'aspetto è leggermente diverso, comunque per completezza di informazione lo aggiungo.
+<br> After careful argument this artwork is definitely considered a fake, that is it does not belong to the original series by INVADER. The subject is completely different from all the others (a question mark) and also the makeshift is someway different, however for thoroughness I add it to the map.
+<img alt="Image Hosted by ImageShack.us" src="http://img193.imageshack.us/img193/3655/invader57misterious.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> on  October 1st, 2010-<br>Grazie a&nbsp;valerio per la segnalazione</div>
+<br>
+
+On February 6th, 2011 Denis prompted me that a very similar artwork can be seen in France, at Metz, a city presently not invaded by INVADER. You can see it at this link:
+<A href="http://www.flickr.com/photos/tofz4u/5422554739/" target="_blank">http://www.flickr.com/photos/tofz4u/5422554739/</A> Thanks Denis!.
+<br>
+
+]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>12.477226,41.889774,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader del Popolo</name>
+    <description><![CDATA[<div dir="ltr">Piccolo invader monocromatico, un pò fuori mano rispetto agli altri, ma comunque molto in vista data la quantità di gente che sale la scalinata verso il Pincio. <br>Grazie a mrcburatti per la segnalazione<br>17-11-2010 Sempre Buratti segnala che l'invader è scomparso :-( <img alt="Image Hosted by ImageShack.us" src="http://img261.imageshack.us/img261/3351/invader59popolo.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-10-03 <br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>12.476934,41.911263,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader di Pietra</name>
+    <description><![CDATA[<div dir="ltr">Piccolo invader in piazza di Pietra, a due passi dal Parlamento <br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br><img alt="Image Hosted by ImageShack.us" src="http://img826.imageshack.us/img826/6063/invader58pietra.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-10-03 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>12.479834,41.900021,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Garbatella</name>
+    <description><![CDATA[<div dir="ltr">Grazie a mrcburatti per questa segnalazione di un bell'invader alla Garbatella, proprio di fronte al Teatro.<br><img src="http://imageshack.us/photo/my-images/221/invader60garbatella.jpg/"></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>12.485649,41.862755,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Cilicia</name>
+    <description><![CDATA[<div dir="ltr">Invader giallorosso. Grazie alla segnalazione di R. </div>
+<div dir="ltr">&nbsp; Lo segno in blu, dato che non è segnalato nella mappa ufficiale di INVADER ma è sicuramente originale.<br>Giugno 2011 - Disappeared :-( <br><img alt="Image Hosted by ImageShack.us" src="http://img576.imageshack.us/img576/8339/invader61cilicia.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-10-23 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>12.506365,41.873924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Porta Portese 2</name>
+    <description><![CDATA[<DIV>Un altro invader missing, fin dai primi momenti. E' rimasto solo il segno dell'incollatura :-((</DIV>
+<DIV>Peccato</DIV>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>12.474039,41.883892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Coppedè</name>
+    <description><![CDATA[<DIV dir="ltr">Segnalato da Pietro e Marina. <BR><IMG alt="Image Hosted by ImageShack.us" src="http://img512.imageshack.us/img512/8476/invader65coppede.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-11-02 <BR>&nbsp;</DIV>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>12.501165,41.918549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Gianicolo</name>
+    <description><![CDATA[<div dir="ltr">A poca distanza dal monumento di Garibaldi, un altro invader che dichiara l'invasione a Roma. <br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br><img alt="Image Hosted by ImageShack.us" src="http://img179.imageshack.us/img179/4320/invader62gianicolo.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-11-01 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>12.461287,41.891644,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Castropretorio</name>
+    <description><![CDATA[<div dir="ltr">Segnalazione di Pietro. Grazie mille. Su indicazione di mrcburatti, anche questo sembra non essere uno di quelli "ufficiali" presenti sulla mappa. In realtà c'è solo un punto cerchiato, magari un ripensamento all'ultimo momento di INVADER? <br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br><img alt="Image Hosted by ImageShack.us" src="http://img20.imageshack.us/img20/7386/invader63castropretorio.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-11-02 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>12.504649,41.908073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Argentina</name>
+    <description><![CDATA[<DIV dir="ltr">Segnalato da molti utenti della mappa. Vi allego questa immagine non convenzionale :-)). Grazie a tutti. <BR><IMG alt="Image Hosted by ImageShack.us" src="http://img143.imageshack.us/img143/1629/invader64argentina1.jpg"><BR>By <A href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</A> at 2010-11-02 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>12.476710,41.895809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Sannio</name>
+    <description><![CDATA[<div dir="ltr">Grazie a mrcburatti allego anche la foto dell'Invader del mercato.<br><img alt="Image Hosted by ImageShack.us" src="http://img201.imageshack.us/img201/1681/invader66sanniomrcburat.jpg"><br>By Mrcburatti at 2010-11-03 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>12.509187,41.885429,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Palomba</name>
+    <description><![CDATA[<div dir="ltr">Questo invader è in una posizione assolutamente non di passaggio, un vicolo stupendo e nascosto. <br>luglio 2011 - Disappeared (thanks to Quentin for the info!)<br><img src="http://img221.imageshack.us/img221/8654/invader60garbatella.jpg"><br><img alt="Image Hosted by ImageShack.us" src="http://img258.imageshack.us/img258/8401/invader66palomba.jpg"><br>By <a href="http://profile.imageshack.us/user/bigmolla" target="_blank">bigmolla</a> at 2010-11-04 <br>&nbsp;</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>12.473589,41.901398,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader trevi</name>
+    <description><![CDATA[<div dir="ltr">Segnalazione di mrcburatti che completa il terzetto di invader originali ma non segnati sulla mappa originale (insieme a Cilicia e castropretorio). Sono stati affissi da INVADER dopo la stampa della mappa.<br><img src="http://img259.imageshack.us/img259/6753/invader68trevimrcburatt.jpg" alt="Image Hosted by ImageShack.us"><br>By mrcburatti at 2010-11-18
+</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>12.483154,41.900738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader Montevecchio</name>
+    <description><![CDATA[<div dir="ltr">Uno dei due invaders che sfuggivano alla classificazione, probabilmente perchè era già sparito!!!<br>Aggiungo la foto del buco attuale nell&#39;intonaco (grazie ad Annalaura), in attesa di trovare una foto dell&#39;originale prima dell&#39;asporto :-(<br><br></div>
+<img src="http://img683.imageshack.us/img683/7720/invadermontevecchioanna.jpg" alt="Image Hosted by ImageShack.us"><br>By Annalaura at 2011-01-07]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>12.470837,41.900070,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Invader de Calvi</name>
+    <description><![CDATA[<div dir="ltr">Segnalazione di Ghibli per questo invader inconsueto, sicuramente un fake, dato che è comparso molto in ritardo rispetto all'invasione di luglio 2011.<br>Thanks to Ghibli for the info!<br><br></div>
+<img src="http://img36.imageshack.us/img36/6392/invderdecalvi.jpg" alt="Image Hosted by ImageShack.us"><br>By Ghibli at 2011-07-04]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>12.446356,41.867313,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
