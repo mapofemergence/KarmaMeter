@@ -1,9 +1,13 @@
 <?php
 
+require_once("db_info.php");
+
+
 // DB
 
 function dbConnect(){
-	require_once("db_info.php");
+	
+	global $dbHost,$dbUser,$dbPassword, $dbName;
 	$con = mysql_connect($dbHost,$dbUser,$dbPassword, true);
 	$db = mysql_select_db($dbName,$con);
 	if(!$con){ die('Could not connect: ' . mysql_error()); }
@@ -26,40 +30,22 @@ function dbQuery($q){
 	mysql_close($con);
 	return $result_a;
 }
-function insertQuery($q){
-	$con = dbConnect();
-	$result = mysql_query($q, $con) or die (mysql_error());
-	
-	mysql_close($con);
-	return $result;
-}
 
 
 // APP SPECIFIC
 
 function populateDb($data){
-	$startquery = "INSERT INTO km_enel_record (id, time, type, value, cState) VALUES ";
-	$counter=0;
-	$query="";
+	// $query = "SELECT id, time, obis, value, cs1 FROM record WHERE  id = 82042768 and not id = (select movieboard from MvMonitor where seq = '093')";
 	foreach($data as $d){
 		$id = $d['id'];
 		$time = $d['time'];
 		$obis = $d['type'];
 		$val = $d['value'];
 		$cs1 = $d['cState'];
-		$vals = "($id, '$time', '$obis', $val, $cs1),";
-		if(!$counter || $counter>50){
-			$query = rtrim($query, ",");
-			$query .= ";". $startquery . $vals;
-			$counter=0;
-		}else
-			$query .= $vals;
-		$counter++;
-		
+		$query = "INSERT INTO record (id, time, obis, value, cs1) VALUES ($id, '$time', '$obis', $val, $cs1)";
+		print $query.'<br/>';
+		//dbQuery($query);
 	}
-	$query = ltrim(rtrim($query, ","),";");
-	$query .=";";
-	return $query;
-	
 }
+
 ?>

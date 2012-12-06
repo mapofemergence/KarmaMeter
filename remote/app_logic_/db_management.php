@@ -1,9 +1,11 @@
 <?php
 
+require_once("db_info.php");
 // DB
 
 function dbConnect(){
-	require_once("db_info.php");
+	
+	global $dbHost,$dbUser,$dbPassword, $dbName;
 	$con = mysql_connect($dbHost,$dbUser,$dbPassword, true);
 	$db = mysql_select_db($dbName,$con);
 	if(!$con){ die('Could not connect: ' . mysql_error()); }
@@ -26,19 +28,12 @@ function dbQuery($q){
 	mysql_close($con);
 	return $result_a;
 }
-function insertQuery($q){
-	$con = dbConnect();
-	$result = mysql_query($q, $con) or die (mysql_error());
-	
-	mysql_close($con);
-	return $result;
-}
 
 
 // APP SPECIFIC
 
 function populateDb($data){
-	$startquery = "INSERT INTO km_enel_record (id, time, type, value, cState) VALUES ";
+	$startquery = "INSERT INTO enel_record (id, time, type, value, cState) VALUES ";
 	$counter=0;
 	$query="";
 	foreach($data as $d){

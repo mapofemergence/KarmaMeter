@@ -176,15 +176,13 @@ function other_user($data){
 <?php
 
 if(isset($_POST['clear_db'])){
-	$query = "DELETE FROM km_user WHERE 1";
+	$query = "DELETE FROM record WHERE 1";
 	print $query.'<hr/>';
 	dbQuery($query);
 }else if(isset($_POST['fill_db'])){
 	$data = parseData($path);
 	//print 'populating...<hr/>';
-	$query = populateDb($data);
-	print $query;
-	
+	print populateDb($data);
 }else if(isset($_POST['other'])){
 	$data = parseData($path);
 	$query = other_user($data);
@@ -192,7 +190,6 @@ if(isset($_POST['clear_db'])){
 	//print 'populating...<hr/>';
 	//$query = populateDb($data2);
 	print $query;
-	
 }
 
 
